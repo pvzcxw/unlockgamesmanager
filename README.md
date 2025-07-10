@@ -1,7 +1,10 @@
 # Steam入库文件管理器
 ![Python 3.7+](https://img.shields.io/badge/Python-3.7+-blue)
+
 ![License](https://img.shields.io/badge/License-MLP-green)
+
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)
+
 Steam入库文件管理器是一个专为管理Steam解锁游戏设计的工具，支持SteamTools和GreenLuma两种入库方式。它提供了直观的界面来管理、编辑和配置您的入库文件，简化了入库游戏的管理流程。
 功能亮点
 🗂️ 多平台支持
